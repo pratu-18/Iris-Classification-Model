@@ -1,0 +1,104 @@
+# ============================================================
+
+# Iris Flower Classification
+
+# Project Dependencies
+
+# ============================================================
+
+#
+
+# Project: Iris Flower Classification using Decision Tree
+
+# Python Version: 3.10 or higher
+
+# IDE: Visual Studio Code
+
+#
+
+# Installation:
+
+# pip install -r requirements.txt
+
+#
+
+# ============================================================
+
+# ------------------------------------------------------------
+
+# Data Manipulation and Analysis
+
+# ------------------------------------------------------------
+
+pandas
+
+# ------------------------------------------------------------
+
+# Data Visualization
+
+# ------------------------------------------------------------
+
+matplotlib
+seaborn
+
+# ------------------------------------------------------------
+
+# Machine Learning
+
+# ------------------------------------------------------------
+
+scikit-learn
+
+# ============================================================
+
+# Environment Information
+
+# ============================================================
+
+#
+
+# Python:
+
+# Version 3.10 or higher
+
+#
+
+# IDE:
+
+# Visual Studio Code (VS Code)
+
+#
+
+# Recommended:
+
+# Use a Python virtual environment before installing
+
+# project dependencies.
+
+#
+
+# Create virtual environment:
+
+# python -m venv venv
+
+#
+
+# Activate on Windows:
+
+# venv\Scripts\activate
+
+#
+
+# Install dependencies:
+
+# pip install -r requirements.txt
+
+#
+
+# Run the project:
+
+# python iris_classification.py
+
+#
+
+# ============================================================
